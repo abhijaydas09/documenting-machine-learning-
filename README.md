@@ -5,10 +5,12 @@ and projects that I have worked on to improve my skills in this field.
 
 
 ## Notes
+Machine Learning basics  - https://www.perplexity.ai/search/what-is-machine-dLM6Re_PRxaShdMKGN2mDw 
+
 
 
 ## Resources
-Machine Learning for Everybody -  https://youtu.be/i_LwzRVP7bg?feature=shared
+Machine Learning basics  -  https://youtu.be/i_LwzRVP7bg?feature=shared
 
 ## Contributions
 
